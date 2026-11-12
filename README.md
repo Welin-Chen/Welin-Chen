@@ -41,7 +41,7 @@ I specialize in designing end-to-end algorithms, real-time biomedical signal pro
 * **Overview:** Full six-degree-of-freedom (6-DOF) aerodynamic trajectory solver modeling translational and rotational motion under thrust ($50\text{ kN}$), gravity, and atmospheric drag.
 * **Simulation Outputs:** 3D trajectory profiling colored by Mach number (max Mach 1.739, max range 29.85 km, max altitude 7.79 km) alongside Pitch, Yaw, and Roll attitude dynamics.
 
-![6-DOF Trajectory Simulation](assets/missile_6dof_result.png)
+![6-DOF Trajectory Simulation](assets/6dof_trajectory_result.png)
 
 ---
 
